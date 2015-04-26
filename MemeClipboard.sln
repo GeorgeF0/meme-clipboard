@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeClipboard", "MemeClipboard\MemeClipboard.csproj", "{78A98964-3494-407B-9E15-170EC44B06FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipboardManager", "ClipboardManager\ClipboardManager.csproj", "{A03F298E-1BF9-4FE4-8666-8683FE6FD652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageManager", "StorageManager\StorageManager.csproj", "{92DF822E-099D-4BDC-8EDB-526B1569DB7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotKeyManager", "HotKeyManager\HotKeyManager.csproj", "{85F3FFCC-A53A-4F1B-AC75-0CB6045BEEDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78A98964-3494-407B-9E15-170EC44B06FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A98964-3494-407B-9E15-170EC44B06FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A98964-3494-407B-9E15-170EC44B06FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A98964-3494-407B-9E15-170EC44B06FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A03F298E-1BF9-4FE4-8666-8683FE6FD652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03F298E-1BF9-4FE4-8666-8683FE6FD652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03F298E-1BF9-4FE4-8666-8683FE6FD652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03F298E-1BF9-4FE4-8666-8683FE6FD652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92DF822E-099D-4BDC-8EDB-526B1569DB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DF822E-099D-4BDC-8EDB-526B1569DB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DF822E-099D-4BDC-8EDB-526B1569DB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DF822E-099D-4BDC-8EDB-526B1569DB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85F3FFCC-A53A-4F1B-AC75-0CB6045BEEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85F3FFCC-A53A-4F1B-AC75-0CB6045BEEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85F3FFCC-A53A-4F1B-AC75-0CB6045BEEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85F3FFCC-A53A-4F1B-AC75-0CB6045BEEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
